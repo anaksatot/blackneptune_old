@@ -1,0 +1,8 @@
+package com.concretepage.entity;
+
+/**
+ * Created by Admin on 5/2/2017.
+ */
+public enum ProposalStatus {
+    SAVED, MADE, ACCEPTED, REFUSED;
+}
